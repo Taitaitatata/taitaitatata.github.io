@@ -4,3 +4,8 @@ color:blue;
 body {
 background-color: lightblue; 
 }
+.title {
+  position: sticky;
+  top: 0;
+}
+
